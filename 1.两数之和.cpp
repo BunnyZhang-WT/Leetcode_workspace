@@ -8,6 +8,8 @@
 using namespace std;
 
 // @lc code=start
+
+// 暴力解法
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
